@@ -16,6 +16,8 @@ Sou um desenvolvedor focado no back-end, com experiência em diversas tecnologia
   - Programação Orientada a Objetos (POO)
   - MVC (Model-View-Controller)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JrSts&exclude_repo=JrSts,Mercsoft&theme=dracula)
+
 ### 📌 Principais Projetos
 
 - [Clean-Arch-Hexagonal](https://github.com/JrSts/clean-arch-hezagonal): Exercício de arquitetura limpa com Node.js, TypeScript, JWT, PostgreSQL, entre outras tecnologias.
